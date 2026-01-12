@@ -30,5 +30,5 @@ items:
       mode: link
   - name: Теги для добавления в документацию
     href: doc_tags.md
-  - name: Обновление документации
+  - name: Обновления документации
     href: doc_update.md

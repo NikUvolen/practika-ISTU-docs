@@ -33,11 +33,25 @@ blocks:
         text: |
           [Руководство по установке](documentation/installation.md)
 
-          [Структура проекта](documentation/structure.md)
+          [Описание приложений](documentation/app_description.md)
 
           [API справочник](documentation/api_reference.md)
 
           [Структура БД](documentation/db_structure.md)
+        
+      - type: basic-card
+        title: 
+          text: Теги для добавления в документацию
+          textSize: s
+        text: |
+          [Теги](doc_tags.md)
+      
+      - type: basic-card
+        title: 
+          text: Обновления документации
+          textSize: s
+        text: |
+          [Обновления](doc_update.md)
 
   - type: content-layout-block
     size: s
