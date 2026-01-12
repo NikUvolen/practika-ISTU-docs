@@ -3,8 +3,8 @@ href: index.yaml
 items:
   - name: Руководство по установке
     href: installation.md
-  - name: Структура проекта
-    href: structure.md
+  - name: Описание приложений
+    href: app_description.md
   - name: API Справочник
     href: api_reference.md
   - name: Структура БД

@@ -28,3 +28,7 @@ items:
     include:
       path: documentation/toc.yaml
       mode: link
+  - name: Теги для добавления в документацию
+    href: doc_tags.md
+  - name: Обновление документации
+    href: doc_update.md
